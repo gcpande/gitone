@@ -1,1 +1,1 @@
-doument1 modified
+This is first version of doc1
